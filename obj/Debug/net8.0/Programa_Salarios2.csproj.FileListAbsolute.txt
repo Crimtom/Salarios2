@@ -1,0 +1,14 @@
+C:\Users\adria\source\repos\Programa_Salarios2\Programa_Salarios2\obj\Debug\net8.0\Programa_Salarios2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\source\repos\Programa_Salarios2\Programa_Salarios2\obj\Debug\net8.0\Programa_Salarios2.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\Programa_Salarios2\Programa_Salarios2\obj\Debug\net8.0\Programa_Salarios2.AssemblyInfo.cs
+C:\Users\adria\source\repos\Programa_Salarios2\Programa_Salarios2\obj\Debug\net8.0\Programa_Salarios2.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\Programa_Salarios2\Programa_Salarios2\bin\Debug\net8.0\Programa_Salarios2.exe
+C:\Users\adria\source\repos\Programa_Salarios2\Programa_Salarios2\bin\Debug\net8.0\Programa_Salarios2.deps.json
+C:\Users\adria\source\repos\Programa_Salarios2\Programa_Salarios2\bin\Debug\net8.0\Programa_Salarios2.runtimeconfig.json
+C:\Users\adria\source\repos\Programa_Salarios2\Programa_Salarios2\bin\Debug\net8.0\Programa_Salarios2.dll
+C:\Users\adria\source\repos\Programa_Salarios2\Programa_Salarios2\bin\Debug\net8.0\Programa_Salarios2.pdb
+C:\Users\adria\source\repos\Programa_Salarios2\Programa_Salarios2\obj\Debug\net8.0\Programa_Salarios2.dll
+C:\Users\adria\source\repos\Programa_Salarios2\Programa_Salarios2\obj\Debug\net8.0\refint\Programa_Salarios2.dll
+C:\Users\adria\source\repos\Programa_Salarios2\Programa_Salarios2\obj\Debug\net8.0\Programa_Salarios2.pdb
+C:\Users\adria\source\repos\Programa_Salarios2\Programa_Salarios2\obj\Debug\net8.0\Programa_Salarios2.genruntimeconfig.cache
+C:\Users\adria\source\repos\Programa_Salarios2\Programa_Salarios2\obj\Debug\net8.0\ref\Programa_Salarios2.dll
